@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967300663410",
+    "project_id": "auth-amir-pinger",
+    "storage_bucket": "auth-amir-pinger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967300663410:android:10cf1fa76de0db2466daeb",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase_amir_pinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967300663410-9codaodu0kcnumdmrvrb30jqeakoup31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_firebase_amir_pinger",
+            "certificate_hash": "50e12d8332ca1412f3cd684835aaa6bd349e6383"
+          }
+        },
+        {
+          "client_id": "967300663410-c2fh0srs91tdto93b66p54a3qhfid4f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkisXNRvQ87tldzFNlxslf5IBq8eJD6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967300663410-c2fh0srs91tdto93b66p54a3qhfid4f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
